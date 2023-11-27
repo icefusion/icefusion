@@ -51,6 +51,13 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 </div>
 <div>
  <code><img width="40px" src="https://cdn.simpleicons.org/amazonaws" title = "AMAZON AWS" alt="AMAZON AWS"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/amazons3" title = "AMAZON S3" alt="AMAZON S3"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/amazonroute53" title = "AMAZON ROUTE 53" alt="AMAZON ROUTE 53"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/amazonec2" title = "AMAZON EC2" alt="AMAZON EC2"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/amazonecs" title = "AMAZON ECS" alt="AMAZON ECS"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/amazoncloudwatch" title = "AMAZON CLOUDWATCH" alt="AMAZON CLOUDWATCH"/></code>
+</div>
+<div>
  <code><img width="40px" src="https://cdn.simpleicons.org/googlecloud" title = "GOOGLE CLOUD" alt="GOOGLE CLOUD"/></code>
  <code><img width="40px" src="https://cdn.simpleicons.org/redis" title = "REDIS" alt="REDIS"/></code>
  <code><img width="40px" src="https://cdn.simpleicons.org/rabbitmq" title = "RABBITMQ" alt="RABBITMQ"/></code>
