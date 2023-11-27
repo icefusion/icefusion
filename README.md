@@ -22,7 +22,7 @@
 </br>
 </br>
 
-## Hello World!! Hello people!!
+## <code><img width="10px" https://cdn.simpleicons.org/alienware/000 /></code> Hello World!! Hello people!!
 
 I am 43 years old and have been passionate about development since the age of 13 when I first encountered Delphi 1. I am equally passionate about my son, who is almost 5 months old, as well as music and playing the guitar. Currently residing in Sorocaba, SP.
 
@@ -30,7 +30,7 @@ I am 43 years old and have been passionate about development since the age of 13
 Currently, I am working at Playgreen, a sports betting company, where I serve as a backend developer. I contribute to the development of new features and work on enhancing and restructuring the application for better performance and scalability.
 
 
-### <code><img width="15px" src="https://cdn.simpleicons.org/airplayvideo" /></code> Technologies and Tools: 
+### <code><img width="10px" src="https://cdn.simpleicons.org/airplayvideo" /></code> Technologies and Tools: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5" alt="HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3" alt="CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT" alt="JAVASCRIPT"/></code>
