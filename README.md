@@ -95,7 +95,7 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 
 </br>
 
-**Captalys** - It`s a FinTech Company.  I was the Tech Lead of the PagAgro Project. I work on that with NodeJs, MongoDB and VueJs. Basically the system is a system where do you put your brazilian digital invoice and based on value and time of antecipation you can receive an amount of money for that. The Project was strutuctured in controllers where all the business is on that. I propose a new concept using NestJs and DDD but the leader don`t accept. 
+**Captalys** - It's a FinTech Company.  I was the Tech Lead of the PagAgro Project. I work on that with NodeJs, MongoDB and VueJs. Basically the system is a system where do you put your brazilian digital invoice and based on value and time of antecipation you can receive an amount of money for that. The Project was strutuctured in controllers where all the business is on that. I propose a new concept using NestJs and DDD but the leader don`t accept. 
 
 </br>
 
