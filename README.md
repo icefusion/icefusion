@@ -87,13 +87,13 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 
 ### <code><img width="20px" src="https://cdn.simpleicons.org/linkfire/000" /></code> Social Media
   <a href="https://www.instagram.com/williansfranco1980/">
-    <code><img align="left" width="50px" src="https://cdn.simpleicons.org/instagram" alt="instagram" style="vertical-align:top;"></code>
+    <code><img align="left" width="40px" src="https://cdn.simpleicons.org/instagram" alt="instagram" style="vertical-align:top;"></code>
   </a> 
   <!--   <a href="https://twitter.com/jeniblo_dev">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+    <img align="left" width="40px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
   </a> -->
   <a href="https://www.linkedin.com/in/willians-franco/">
-    <code><img width="50px" src="https://cdn.simpleicons.org/linkedin" alt="linkedin" style="vertical-align:top;"></code>
+    <code><img width="40px" src="https://cdn.simpleicons.org/linkedin" alt="linkedin" style="vertical-align:top;"></code>
   </a>
 
 </br>
