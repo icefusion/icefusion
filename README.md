@@ -10,18 +10,15 @@
 </div>
 
 </br>
-</br>
 
 ## <code><img width="20px" src="https://cdn.simpleicons.org/alienware/000" /></code> Hello World!! Hello people!!
 I am 43 years old and have been passionate about development since the age of 13 when I first encountered Delphi 1. I am equally passionate about my son, who is almost 5 months old, as well as music and playing the guitar. Currently residing in Sorocaba, SP.
 
 </br>
-</br>
 
 ### <code><img width="20px" src="https://uxwing.com/wp-content/themes/uxwing/download/business-professional-services/company-enterprise-icon.png" /></code> Company
 Currently, I am working at Playgreen, a sports betting company, where I serve as a backend developer. I contribute to the development of new features and work on enhancing and restructuring the application for better performance and scalability.
 
-</br>
 </br>
 
 ### <code><img width="20px" src="https://cdn.simpleicons.org/airplayvideo" /></code> Technologies and Tools: 
@@ -64,7 +61,6 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 </div>
 
 </br>
-</br>
 
 ### <code><img width="20px" src="https://cdn.simpleicons.org/carrd/000" /></code> In Learning
 <code><img src="https://cdn.simpleicons.org/python" title="PYTHON" alt="PYTHON" width="40px"></code>
@@ -73,14 +69,14 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 <code><img src="https://cdn.simpleicons.org/go" title="GO" alt="GO" width="40px"></code>
 
 </br>
-</br>
 
 ### <code><img width="20px" src="https://cdn.simpleicons.org/gmail/000" /></code> Contact
   <code><img src="https://cdn.simpleicons.org/gmail" title="GMAIL" alt="GMAIL" width="20px"></code> - [contato@williansfranco.dev](mailto:contato@williansfranco.dev?subject=[GitHub])
   <code><img src="https://cdn.simpleicons.org/discord" title="GMAIL" alt="GMAIL" width="20px"></code> - Will Franco Dev#3558
 
-### <code><img width="20px" src="https://cdn.simpleicons.org/linkfire/000" /></code> Social Media
+</br>
 
+### <code><img width="20px" src="https://cdn.simpleicons.org/linkfire/000" /></code> Social Media
   <a href="https://www.instagram.com/williansfranco1980/">
     <code><img align="left" width="50px" src="https://cdn.simpleicons.org/instagram" alt="instagram" style="vertical-align:top;"></code>
   </a> 
