@@ -22,7 +22,7 @@
 </br>
 </br>
 
-## <code><img width="10px" https://cdn.simpleicons.org/alienware/000 /></code> Hello World!! Hello people!!
+## <code><img width="10px" src="https://cdn.simpleicons.org/alienware/000" /></code> Hello World!! Hello people!!
 
 I am 43 years old and have been passionate about development since the age of 13 when I first encountered Delphi 1. I am equally passionate about my son, who is almost 5 months old, as well as music and playing the guitar. Currently residing in Sorocaba, SP.
 
