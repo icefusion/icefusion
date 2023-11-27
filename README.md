@@ -72,6 +72,7 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 
 ### <code><img width="20px" src="https://cdn.simpleicons.org/gmail/000" /></code> Contact
   <code><img src="https://cdn.simpleicons.org/gmail" title="GMAIL" alt="GMAIL" width="20px"></code> - [contato@williansfranco.dev](mailto:contato@williansfranco.dev?subject=[GitHub])
+  </br>
   <code><img src="https://cdn.simpleicons.org/discord" title="GMAIL" alt="GMAIL" width="20px"></code> - Will Franco Dev#3558
 
 </br>
