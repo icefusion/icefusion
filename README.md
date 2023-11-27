@@ -87,7 +87,15 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
   <a href="https://www.linkedin.com/in/willians-franco/">
     <code><img width="50px" src="https://cdn.simpleicons.org/linkedin" alt="linkedin" style="vertical-align:top;"></code>
   </a>
-  
+
+ </br>
+
+### code><img width="20px" src="https://www.iconspng.com/images/mental-health-icon/mental-health-icon.jpg" /></code> Last Three Experiences
+**Devskins** - It`s a software company. I work as a senior full stack developer there and could work in many different project types. I work in a english plataform application (nodejs / reactjs / socketio), crypto trade plataform (nodejs), ecommerce, property for sale advertising platform, project manager plataform and others.
+</br>
+**Captalys** - It`s a FinTech Company.  I was the Tech Lead of the PagAgro Project. I work on that with NodeJs, MongoDB and VueJs. Basically the system is a system where do you put your brazilian digital invoice and based on value and time of antecipation you can receive an amount of money for that. The Project was strutuctured in controllers where all the business is on that. I propose a new concept using NestJs and DDD but the leader don`t accept. 
+</br>
+**Eduzz** - It`s a online courses company. This company have a great and complex system organism with many applications, apis, frontends interconnected processing each information. It`s not a microservices architecture but have a lot of applications one depending on the other. In this company I work with PHP (Laravel / Lumen / Codeigniter) and Nodejs for backend, Html, CSS, ReactJS and Redux for the frontend. In ths company I created a Bank Transfer Application(node service) (, Activity History Application (node service), Payment Appication (PHP Api) and help to keep the company backoffice, checkout and the customer backoffice working.
 
 
 
