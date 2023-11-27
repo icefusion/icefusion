@@ -9,13 +9,13 @@
  
  <h1 align="left">Willians Franco - Icefusion / Willrocker</h1>
  <a href="https://www.instagram.com/williansfranco1980/">
-    <img align="left" width="80px" src="https://cdn.simpleicons.org/instagram" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="50px" src="https://cdn.simpleicons.org/instagram" alt="instagram" style="vertical-align:top;">
   </a> 
 <!--   <a href="https://twitter.com/jeniblo_dev">
     <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
   </a> -->
   <a href="https://www.linkedin.com/in/willians-franco/">
-    <img width="80px" src="https://cdn.simpleicons.org/linkedin" alt="linkedin" style="vertical-align:top;">
+    <img width="50px" src="https://cdn.simpleicons.org/linkedin" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
@@ -73,7 +73,6 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA" alt="JAVA"/></code>
 <code><img src="https://cdn.simpleicons.org/springboot" title="SPRING BOOT" alt="SPRING BOOT" width="40px"></code>
 <code><img src="https://cdn.simpleicons.org/go" title="GO" alt="GO" width="40px"></code>
-
 
 
 
