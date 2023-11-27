@@ -6,17 +6,7 @@
 -->
 
 <div dsplay="inline-block">
- 
  <h1 align="left">Willians C. Franco R. - Icefusion / Willrocker</h1>
- <a href="https://www.instagram.com/williansfranco1980/">
-    <code><img align="left" width="50px" src="https://cdn.simpleicons.org/instagram" alt="instagram" style="vertical-align:top;"></code>
-  </a> 
-<!--   <a href="https://twitter.com/jeniblo_dev">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-  </a> -->
-  <a href="https://www.linkedin.com/in/willians-franco/">
-    <code><img width="50px" src="https://cdn.simpleicons.org/linkedin" alt="linkedin" style="vertical-align:top;"></code>
-  </a>
 </div>
 
 </br>
@@ -74,6 +64,22 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 <code><img src="https://cdn.simpleicons.org/springboot" title="SPRING BOOT" alt="SPRING BOOT" width="40px"></code>
 <code><img src="https://cdn.simpleicons.org/go" title="GO" alt="GO" width="40px"></code>
 
+
+### Contact
+<code><img src="https://cdn.simpleicons.org/gmail" title="GMAIL" alt="GMAIL" width="40px"></code> - contato@williansfranco.dev
+ - Discord
+
+### Social Media
+  <a href="https://www.instagram.com/williansfranco1980/">
+    <code><img align="left" width="50px" src="https://cdn.simpleicons.org/instagram" alt="instagram" style="vertical-align:top;"></code>
+  </a> 
+  <!--   <a href="https://twitter.com/jeniblo_dev">
+    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  </a> -->
+  <a href="https://www.linkedin.com/in/willians-franco/">
+    <code><img width="50px" src="https://cdn.simpleicons.org/linkedin" alt="linkedin" style="vertical-align:top;"></code>
+  </a>
+  
 
 
 
