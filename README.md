@@ -65,7 +65,7 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 <div>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT" alt="GIT" /></code>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB" alt="GITHUB"/></code>
- <code><img width="40px" src="https://cdn.simpleicons.org/visualcodestudio" title = "VISUAL CODE STUDIO" alt="VISUAL CODE STUDIO"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/visualstudiocode" title = "VISUAL STUDIO CODE" alt="VISUAL STUDIO CODE"/></code>
 </div>
 
 </br>
