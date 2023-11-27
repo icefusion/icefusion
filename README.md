@@ -26,7 +26,7 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5" alt="HTML5"/></code>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3" alt="CSS3"/></code>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT" alt="JAVASCRIPT"/></code>
- <code><img src="https://cdn.simpleicons.org/nodejs" title="NODEJS" alt="NODEJS" width="40px"></code>
+ <code><img src="https://cdn.simpleicons.org/nodedotjs" title="NODEJS" alt="NODEJS" width="40px"></code>
  <code><img src="https://cdn.simpleicons.org/nestjs" title="NESTJS" alt="NESTJS" width="40px"></code>
  <code><img src="https://cdn.simpleicons.org/react" title="REACTJS" alt="REACTJS" width="40px"></code>
  <code><img src="https://cdn.simpleicons.org/next.js" title="NEXTJS" alt="NEXTJS" width="40px"></code>
