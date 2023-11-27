@@ -22,15 +22,14 @@
 </br>
 </br>
 
-## <code><img width="10px" src="https://cdn.simpleicons.org/alienware/000" /></code> Hello World!! Hello people!!
-
+## <code><img width="20px" src="https://cdn.simpleicons.org/alienware/000" /></code> Hello World!! Hello people!!
 I am 43 years old and have been passionate about development since the age of 13 when I first encountered Delphi 1. I am equally passionate about my son, who is almost 5 months old, as well as music and playing the guitar. Currently residing in Sorocaba, SP.
 
-### Company
+### <code><img width="20px" src="https://uxwing.com/wp-content/themes/uxwing/download/business-professional-services/company-enterprise-icon.png" /></code> Company
 Currently, I am working at Playgreen, a sports betting company, where I serve as a backend developer. I contribute to the development of new features and work on enhancing and restructuring the application for better performance and scalability.
 
 
-### <code><img width="10px" src="https://cdn.simpleicons.org/airplayvideo" /></code> Technologies and Tools: 
+### <code><img width="20px" src="https://cdn.simpleicons.org/airplayvideo" /></code> Technologies and Tools: 
 <div>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5" alt="HTML5"/></code>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3" alt="CSS3"/></code>
@@ -62,16 +61,19 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
  <code><img width="40px" src="https://cdn.simpleicons.org/amazonaws" title = "AMAZON AWS" alt="AMAZON AWS"/></code>
  <code><img width="40px" src="https://cdn.simpleicons.org/googlecloud" title = "GOOGLE CLOUD" alt="GOOGLE CLOUD"/></code>
  <code><img width="40px" src="https://cdn.simpleicons.org/redis" title = "REDIS" alt="REDIS"/></code>
- <code><img width="40px" src="https://cdn.simpleicons.org/rabbitmq" title = "RabbitMQ" alt="RabbitMQ"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/rabbitmq" title = "RABBITMQ" alt="RABBITMQ"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/docker" title = "DOCKER" alt="DOCKER"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/jenkins" title = "JENKINS" alt="JENKINS"/></code>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT" alt="GIT" /></code>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB" alt="GITHUB"/></code>
 </div>
 
-### In Learning
+### <code><img width="20px" src="https://cdn.simpleicons.org/carrd/000" /></code> In Learning
 <code><img src="https://cdn.simpleicons.org/python" title="PYTHON" alt="PYTHON" width="40px"></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA" alt="JAVA"/></code>
 <code><img src="https://cdn.simpleicons.org/springboot" title="SPRING BOOT" alt="SPRING BOOT" width="40px"></code>
 <code><img src="https://cdn.simpleicons.org/go" title="GO" alt="GO" width="40px"></code>
+
 
 
 
