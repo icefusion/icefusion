@@ -56,15 +56,16 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
  <code><img width="40px" src="https://cdn.simpleicons.org/amazonec2" title = "AMAZON EC2" alt="AMAZON EC2"/></code>
  <code><img width="40px" src="https://cdn.simpleicons.org/amazonecs" title = "AMAZON ECS" alt="AMAZON ECS"/></code>
  <code><img width="40px" src="https://cdn.simpleicons.org/amazoncloudwatch" title = "AMAZON CLOUDWATCH" alt="AMAZON CLOUDWATCH"/></code>
-</div>
-<div>
  <code><img width="40px" src="https://cdn.simpleicons.org/googlecloud" title = "GOOGLE CLOUD" alt="GOOGLE CLOUD"/></code>
  <code><img width="40px" src="https://cdn.simpleicons.org/redis" title = "REDIS" alt="REDIS"/></code>
  <code><img width="40px" src="https://cdn.simpleicons.org/rabbitmq" title = "RABBITMQ" alt="RABBITMQ"/></code>
  <code><img width="40px" src="https://cdn.simpleicons.org/docker" title = "DOCKER" alt="DOCKER"/></code>
  <code><img width="40px" src="https://cdn.simpleicons.org/jenkins" title = "JENKINS" alt="JENKINS"/></code>
+</div>
+<div>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT" alt="GIT" /></code>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB" alt="GITHUB"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/visualcodestudio" title = "VISUAL CODE STUDIO" alt="VISUAL CODE STUDIO"/></code>
 </div>
 
 </br>
