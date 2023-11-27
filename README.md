@@ -91,7 +91,7 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
  </br>
 
 ### <code><img width="20px" src="https://www.iconspng.com/images/mental-health-icon/mental-health-icon.jpg" /></code> Last Three Experiences
-**Devskin** - It`s a software company. I work as a senior full stack developer there and could work in many different project types. I work in a english plataform application (nodejs / reactjs / socketio), crypto trade plataform (nodejs), ecommerce, property for sale advertising platform, project manager plataform and others.
+**Devskin** - It's a software company. I work as a senior full stack developer there and could work in many different project types. I work in a english plataform application (nodejs / reactjs / socketio), crypto trade plataform (nodejs), ecommerce, property for sale advertising platform, project manager plataform and others.
 
 </br>
 
@@ -99,7 +99,7 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 
 </br>
 
-**Eduzz** - It`s a online courses company. This company have a great and complex system organism with many applications, apis, frontends interconnected processing each information. It`s not a microservices architecture but have a lot of applications one depending on the other. In this company I work with PHP (Laravel / Lumen / Codeigniter) and Nodejs for backend, Html, CSS, ReactJS and Redux for the frontend. In ths company I created a Bank Transfer Application(node service) (, Activity History Application (node service), Payment Appication (PHP Api) and help to keep the company backoffice, checkout and the customer backoffice working.
+**Eduzz** - It's a online courses company. This company have a great and complex system organism with many applications, apis, frontends interconnected processing each information. It`s not a microservices architecture but have a lot of applications one depending on the other. In this company I work with PHP (Laravel / Lumen / Codeigniter) and Nodejs for backend, Html, CSS, ReactJS and Redux for the frontend. In ths company I created a Bank Transfer Application(node service) (, Activity History Application (node service), Payment Appication (PHP Api) and help to keep the company backoffice, checkout and the customer backoffice working.
 
 
 
