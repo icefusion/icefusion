@@ -31,30 +31,42 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 
 
 ### <code><img width="10px" src="https://cdn.simpleicons.org/airplayvideo" /></code> Technologies and Tools: 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5" alt="HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3" alt="CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT" alt="JAVASCRIPT"/></code>
-<code><img src="https://cdn.simpleicons.org/nodedotjs" title="NODEJS" alt="NODEJS" width="40px"></code>
-<code><img src="https://cdn.simpleicons.org/nestjs" title="NESTJS" alt="NESTJS" width="40px"></code>
-<code><img src="https://cdn.simpleicons.org/react" title="REACTJS" alt="REACTJS" width="40px"></code>
-<code><img src="https://cdn.simpleicons.org/next.js" title="NEXTJS" alt="NEXTJS" width="40px"></code>
-<!-- <code><img src="https://cdn.simpleicons.org/nestjs" title="HOOKS" alt="HOOKS" width="40px"></code> -->
-<code><img src="https://cdn.simpleicons.org/redux" title="REDUX" alt="REDUX" width="40px"></code>
-<code><img src="https://cdn.simpleicons.org/vue.js" title="VUEJS" alt="VUEJS" width="40px"></code>
-<code><img src="https://cdn.simpleicons.org/php" title="PHP" alt="PHP" width="40px"></code>
-<code><img src="https://cdn.simpleicons.org/laravel" title="LARAVEL" alt="LARAVEL" width="40px"></code>
-<code><img src="https://cdn.simpleicons.org/lumen" title="LUMEN" alt="LUMEN" width="40px"></code>
-<code><img src="https://cdn.simpleicons.org/magento" title="MAGENTO" alt="MAGENTO" width="40px"></code>
-<code><img src="https://cdn.simpleicons.org/wordpress" title="WORDPRESS" alt="WORDPRESS" width="40px"></code>
-<code><img src="https://cdn.simpleicons.org/python" title="PYTHON" alt="PYTHON" width="40px"></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img src="https://cdn.simpleicons.org/springboot" title="SPRING BOOT" alt="SPRING BOOT" width="40px"></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://cdn.simpleicons.org/microsoftsqlserver" title = "SQL SERVER" alt="SQL SERVER"/></code>
-<code><img width="40px" src="https://cdn.simpleicons.org/postgresql" title = "POSTGRE" alt="POSTGREE"/></code>
-<code><img width="40px" src="https://cdn.simpleicons.org/mongodb" title = "MONGODB" alt="MONGODB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT" alt="GIT" /></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB" alt="GITHUB"/></code>
+<div>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5" alt="HTML5"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3" alt="CSS3"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT" alt="JAVASCRIPT"/></code>
+ <code><img src="https://cdn.simpleicons.org/nodedotjs" title="NODEJS" alt="NODEJS" width="40px"></code>
+ <code><img src="https://cdn.simpleicons.org/nestjs" title="NESTJS" alt="NESTJS" width="40px"></code>
+ <code><img src="https://cdn.simpleicons.org/react" title="REACTJS" alt="REACTJS" width="40px"></code>
+ <code><img src="https://cdn.simpleicons.org/next.js" title="NEXTJS" alt="NEXTJS" width="40px"></code>
+ <!-- <code><img src="https://cdn.simpleicons.org/nestjs" title="HOOKS" alt="HOOKS" width="40px"></code> -->
+ <code><img src="https://cdn.simpleicons.org/redux" title="REDUX" alt="REDUX" width="40px"></code>
+ <code><img src="https://cdn.simpleicons.org/vue.js" title="VUEJS" alt="VUEJS" width="40px"></code>
+ <code><img src="https://cdn.simpleicons.org/php" title="PHP" alt="PHP" width="40px"></code>
+ <code><img src="https://cdn.simpleicons.org/laravel" title="LARAVEL" alt="LARAVEL" width="40px"></code>
+</div>
+<div>
+ <code><img src="https://cdn.simpleicons.org/lumen" title="LUMEN" alt="LUMEN" width="40px"></code>
+ <code><img src="https://cdn.simpleicons.org/magento" title="MAGENTO" alt="MAGENTO" width="40px"></code>
+ <code><img src="https://cdn.simpleicons.org/wordpress" title="WORDPRESS" alt="WORDPRESS" width="40px"></code>
+ <code><img src="https://cdn.simpleicons.org/python" title="PYTHON" alt="PYTHON" width="40px"></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+ <code><img src="https://cdn.simpleicons.org/springboot" title="SPRING BOOT" alt="SPRING BOOT" width="40px"></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/microsoftsqlserver" title = "SQL SERVER" alt="SQL SERVER"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/postgresql" title = "POSTGRE" alt="POSTGREE"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/mongodb" title = "MONGODB" alt="MONGODB"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/elasticsearch" title = "ELASTICSEARCH" alt="ELASTICSEARCH"/></code>
+</div>
+<div>
+ <code><img width="40px" src="https://cdn.simpleicons.org/amazonaws" title = "AMAZON AWS" alt="AMAZON AWS"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/googlecloud" title = "GOOGLE CLOUD" alt="GOOGLE CLOUD"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/redis" title = "REDIS" alt="REDIS"/></code>
+ <code><img width="40px" src="https://cdn.simpleicons.org/rabbitmq" title = "RabbitMQ" alt="RabbitMQ"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT" alt="GIT" /></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT" alt="GIT" /></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB" alt="GITHUB"/></code>
+</div>
 
 ### In Learning
 <code><img src="https://cdn.simpleicons.org/python" title="PYTHON" alt="PYTHON" width="40px"></code>
