@@ -1,9 +1,8 @@
 
-<img align="right" width="250px" style="margin-top:-20px" src="https://williansfranco.dev/avatar_hello.png">
+<img align="right" width="300px" style="margin-top:-20px" src="https://williansfranco.dev/avatar_hello.png">
 
 </br>
 </br>
--->
 
 <div dsplay="inline-block">
  <h1 align="left">Willians Cesar Franco Ribeiro - Icefusion / Willrocker</h1>
