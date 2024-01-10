@@ -112,5 +112,10 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 
 </br >
 
+<img align="right" width="300px" style="margin-top:-20px" src="https://williansfranco.dev/avatar_champ.png">
+
+</br>
+</br
+
 ### <code><img width="20px" src="https://cdn.simpleicons.org/gnometerminal/000" /></code> Extra Note
 Most of my work was carried out using the email and github specific to the company I worked for. Therefore, many data and information are not available here. Also most of my projects are private to avoid being copied.
