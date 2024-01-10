@@ -20,6 +20,11 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 
 </br>
 
+<img align="right" width="300px" style="margin-top:-20px" src="https://williansfranco.dev/avatar_ok.png">
+
+</br>
+</br
+
 ### <code><img width="20px" src="https://cdn.simpleicons.org/airplayvideo" /></code> Technologies and Tools: 
 <div>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5" alt="HTML5"/></code>
