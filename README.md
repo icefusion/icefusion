@@ -93,18 +93,15 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 ### <code><img width="20px" src="https://cdn.simpleicons.org/linkfire/000" /></code> Social Media
   <a href="https://www.instagram.com/williansfranco1980/">
     <code><img align="left" width="40px" src="https://cdn.simpleicons.org/instagram" alt="https://www.instagram.com/williansfranco1980/" title="https://www.instagram.com/williansfranco1980/" style="vertical-align:top;"></code>
-    https://www.instagram.com/williansfranco1980/
   </a> 
   <a href="https://www.linkedin.com/in/willians-franco/">
     <code><img width="40px" src="https://cdn.simpleicons.org/linkedin" alt="https://www.linkedin.com/in/willians-franco/" title="https://www.linkedin.com/in/willians-franco/" style="vertical-align:top;"></code>
-    https://www.linkedin.com/in/willians-franco/
   </a>
   <a href="https://www.linkedin.com/in/willians-franco/">
     <code><img width="40px" src="https://cdn.simpleicons.org/icloud" alt="https://www.linkedin.com/in/willians-franco/" title="https://www.linkedin.com/in/willians-franco/" style="vertical-align:top;"></code>
   </a>
   <a href="https://williansfranco.dev/">
     <code><img width="40px" src="https://cdn.simpleicons.org/icloud" alt="https://williansfranco.dev/" title="https://williansfranco.dev/" style="vertical-align:top;"></code>
-    https://williansfranco.dev/
   </a>
 </br>
 
