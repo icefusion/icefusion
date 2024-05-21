@@ -23,9 +23,10 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 <img align="right" width="300px" style="margin-top:-20px" src="https://williansfranco.dev/avatar_ok.png">
 
 </br>
-</br
+</br>
 
 ### <code><img width="20px" src="https://cdn.simpleicons.org/airplayvideo" /></code> Technologies and Tools: 
+
 <div>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5" alt="HTML5"/></code>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3" alt="CSS3"/></code>
@@ -91,12 +92,20 @@ Currently, I am working at Playgreen, a sports betting company, where I serve as
 
 ### <code><img width="20px" src="https://cdn.simpleicons.org/linkfire/000" /></code> Social Media
   <a href="https://www.instagram.com/williansfranco1980/">
-    <code><img align="left" width="40px" src="https://cdn.simpleicons.org/instagram" alt="instagram" style="vertical-align:top;"></code>
+    <code><img align="left" width="40px" src="https://cdn.simpleicons.org/instagram" alt="https://www.instagram.com/williansfranco1980/" title="https://www.instagram.com/williansfranco1980/" style="vertical-align:top;"></code>
+    https://www.instagram.com/williansfranco1980/
   </a> 
   <a href="https://www.linkedin.com/in/willians-franco/">
-    <code><img width="40px" src="https://cdn.simpleicons.org/linkedin" alt="linkedin" style="vertical-align:top;"></code>
+    <code><img width="40px" src="https://cdn.simpleicons.org/linkedin" alt="https://www.linkedin.com/in/willians-franco/" title="https://www.linkedin.com/in/willians-franco/" style="vertical-align:top;"></code>
+    https://www.linkedin.com/in/willians-franco/
   </a>
-
+  <a href="https://www.linkedin.com/in/willians-franco/">
+    <code><img width="40px" src="https://cdn.simpleicons.org/icloud" alt="https://www.linkedin.com/in/willians-franco/" title="https://www.linkedin.com/in/willians-franco/" style="vertical-align:top;"></code>
+  </a>
+  <a href="https://williansfranco.dev/">
+    <code><img width="40px" src="https://cdn.simpleicons.org/icloud" alt="https://williansfranco.dev/" title="https://williansfranco.dev/" style="vertical-align:top;"></code>
+    https://williansfranco.dev/
+  </a>
 </br>
 
 ### <code><img width="20px" src="https://www.iconspng.com/images/mental-health-icon/mental-health-icon.jpg" /></code> Last Three Experiences
